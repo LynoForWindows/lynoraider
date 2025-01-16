@@ -13,7 +13,8 @@ Download ~> [Here](<https://github.com/LynoForWindows/lynoraider/releases/tag/V1
 -  Go to bot and scroll down, select all
 ![image](https://github.com/user-attachments/assets/5802ccc2-506f-4f58-9587-74995dc2e1bf)
 - Press reset token
-
+  
+- **Go to your victim's discord server settings and DISABLE COMMUNITY in Overview (if community was enabled)**
 - Paste on the tool and you're done!
 
 # Credits
