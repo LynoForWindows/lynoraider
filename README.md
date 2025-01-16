@@ -1,5 +1,6 @@
 # Lyno Raider
 A Public Open source Raider for discord (Server nuking)
+Download ~> [Here](<https://github.com/LynoForWindows/lynoraider/releases/tag/V1>)
 
 # How do I use it?
 
